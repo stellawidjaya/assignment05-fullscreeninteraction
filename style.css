@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.buttons {
+    background-color: #413228;
+    color: white;
+    border: none;
+    font-size: 8px;
+    font-family: Roboto Mono;
+}
+
+.buttons:hover {
+    background-color: #3a2d24;
+}
